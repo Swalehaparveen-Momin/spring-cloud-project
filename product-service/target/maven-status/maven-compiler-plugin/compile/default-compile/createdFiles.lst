@@ -1,0 +1,7 @@
+com/example/productservice/dto/ProductDTO.class
+com/example/productservice/controller/ProductController.class
+com/example/productservice/ProductServiceApplication.class
+com/example/productservice/component/DataLoader.class
+com/example/productservice/service/ProductService.class
+com/example/productservice/dao/ProductRepository.class
+com/example/productservice/entity/Product.class

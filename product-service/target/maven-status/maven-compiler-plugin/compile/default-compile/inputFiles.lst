@@ -1,0 +1,7 @@
+/home/swaleha/Desktop/JavaByRaviSir/Project/springCloudProject/product-service/src/main/java/com/example/productservice/ProductServiceApplication.java
+/home/swaleha/Desktop/JavaByRaviSir/Project/springCloudProject/product-service/src/main/java/com/example/productservice/component/DataLoader.java
+/home/swaleha/Desktop/JavaByRaviSir/Project/springCloudProject/product-service/src/main/java/com/example/productservice/controller/ProductController.java
+/home/swaleha/Desktop/JavaByRaviSir/Project/springCloudProject/product-service/src/main/java/com/example/productservice/dao/ProductRepository.java
+/home/swaleha/Desktop/JavaByRaviSir/Project/springCloudProject/product-service/src/main/java/com/example/productservice/dto/ProductDTO.java
+/home/swaleha/Desktop/JavaByRaviSir/Project/springCloudProject/product-service/src/main/java/com/example/productservice/entity/Product.java
+/home/swaleha/Desktop/JavaByRaviSir/Project/springCloudProject/product-service/src/main/java/com/example/productservice/service/ProductService.java
